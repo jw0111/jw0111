@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![jw0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0111)](https://github.com/jw0111/github-readme-stats)
+![jw0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0111&theme=buefy&show_icons=true)
 
 <!--
 **jw0111/jw0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
