@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Kim%20Juwon&font-size=60&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Kim%20Juwon&font-size=60&fontAlign=75)
 
 ![jw0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0111&theme=buefy&show_icons=true)[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw0111)](https://solved.ac/jw0111)
 
