@@ -1,7 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Juwon&font-size=70&fontAlign=75)
 
 
-<h2 align="center">🌸 Teck Stack 🌸</h2>
+<h2 align="center">💻 Work Experience 💻</h2>
+
+* [21.11.26~22.03.10] UMC 앱런칭 프로젝트 멍박사의 밥학사전 **PM&BE**
+* [22.01.14~22.01.23] 인하대학교 슈퍼챌린지 해커톤 플로카 **최우수상 수상**
+* [22.03.05~22.08.28] 인하대학교 UMC **Web&Node.js 파트장**
+* [22.06.04~] 소프트웨어 마에스트로 13기 팀 TRENDLY **BE**
+
+
+
+<h2 align="center">🛠 Teck Stack 🛠</h2>
+<div align="center">Tech that I've used at least once</div>
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
@@ -14,8 +25,16 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+</br>
+
+<h4 align="center">⚙️ Tools ⚙️</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
+</p>
 
 <br></br>
 
@@ -29,7 +48,7 @@
 
 <p align="center">
   <div align="center">안녕하세요! 소통을 좋아하는 백엔드 개발자 김주원입니다!</div>
-  <div align="center">다재다능한 백엔드 개발자가 되기 위해 기획, 디자인, 프론트, 마케팅도 조금씩 배우는 중입니다!</div>
+  <div align="center">다재다능한 백엔드 개발자가 되기 위해 기획, 디자인, 프론트엔드, 마케팅도 조금씩 배우는 중입니다!</div>
 </p>
 
 ----
