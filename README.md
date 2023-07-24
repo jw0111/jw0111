@@ -7,7 +7,8 @@
 * [22.01.14~22.01.23] 인하대학교 슈퍼챌린지 해커톤 플로카 **최우수상 수상**
 * [22.03.05~22.08.28] 인하대학교 UMC **Web&Node.js 파트장**
 * [22.06.04~22.12.15] 소프트웨어 마에스트로 13기 팀 TRENDLY **BE**
-* [22.10.23~23.02.26] YAPP 21기 **BE**
+* [22.10.23~23.02.26] YAPP 21기 **BE** & **대상 수상**
+* [23.03.06~23.06.13] 2023 SW중심대학 캡스톤 디자인 성과발표회 **장려상 수상**
 
 
 
@@ -49,11 +50,11 @@
 
 <p align="center">
   <div align="center">안녕하세요! 소통을 좋아하는 백엔드 개발자 김주원입니다!</div>
-  <div align="center">다재다능한 백엔드 개발자가 되기 위해 기획, 디자인, 프론트엔드, 마케팅도 조금씩 배우는 중입니다!</div>
+  <div align="center">보다 효율적인 협업과 원활한 소통을 위해 백엔드 외에도 모든 분야를 공부중입니다. 잘 부탁드려요 :)</div>
 </p>
 
 ----
-![jw0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0111&theme=buefy&show_icons=true)
+<!--[jw0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw0111&theme=buefy&show_icons=true)-->
 <br></br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jw0111)](https://solved.ac/jw0111)
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjw0111%2Fhit-counter&count_bg=%23FFDAB9&title_bg=%23FFC0CB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
