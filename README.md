@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Juwon&font-size=70&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&font-size=70&fontAlign=75)
 
 
 <h2 align="center">💻 Work Experience 💻</h2>
 
 * [21.11.26~22.03.10] UMC 앱런칭 프로젝트 멍박사의 밥학사전 **PM&BE**
-* [22.01.14~22.01.23] 인하대학교 슈퍼챌린지 해커톤 플로카 **최우수상 수상**
-* [22.03.05~22.08.28] 인하대학교 UMC **Web&Node.js 파트장**
+* [22.01.14~22.01.23] ㅇㅇ대학교 슈퍼챌린지 해커톤 플로카 **최우수상 수상**
+* [22.03.05~22.08.28] ㅇㅇ대학교 UMC **Web&Node.js 파트장**
 * [22.06.04~22.12.15] 소프트웨어 마에스트로 13기 팀 TRENDLY **BE**
 * [22.10.23~23.02.26] YAPP 21기 **BE** & **대상 수상**
 * [23.03.06~23.06.13] 2023 SW중심대학 캡스톤 디자인 성과발표회 **장려상 수상**
@@ -49,7 +49,7 @@
 <br></br>
 
 <p align="center">
-  <div align="center">안녕하세요! 소통을 좋아하는 백엔드 개발자 김주원입니다!</div>
+  <div align="center">안녕하세요! 소통을 좋아하는 백엔드 개발자 ㅇㅇㅇ입니다!</div>
   <div align="center">보다 효율적인 협업과 원활한 소통을 위해 백엔드 외에도 모든 분야를 공부중입니다. 잘 부탁드려요 :)</div>
 </p>
 
